@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+    color: white;
+}
+
+
+body {
+    background-image: url("tlou.jpg");
+    
+
+}
+
+form {
+    text-align: center;
+    color: white;
+}
+
+button {
+    color: rgb(0, 0, 0);
+    background-color: green;
+}
